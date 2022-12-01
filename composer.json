@@ -1,0 +1,17 @@
+{
+    "name": "emrebakkal/sozlukphp",
+    "description": "Türk Dil Kurumunun hazırladığı Türkçe sözlük API'ı için hazırlanmış, basitleştirilmiş bir PHP kutuphanesi.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SozlukPHP\\": "./src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emre BAKKAL",
+            "homepage": "https://github.com/emrebakkal"
+        }
+    ],
+    "require": {}
+}
