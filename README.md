@@ -27,7 +27,7 @@ echo $sozluk->word("programlama")->getMeaning();
 ```
 Kelimenin tüm anlamlarını çekmek (Array)
 ```php
-print_r($sozluk->word("programlama")->getMeanings();
+print_r($sozluk->word("programlama")->getMeanings());
 // Ekrana, verilen kelimenin butun anlamlarini array tipinden yazdiracaktir.
 ```
 Kelimenin tüm anlamlarının index sayısını çekmek
